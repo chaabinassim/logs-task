@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# Uncomment the following lines if you're using TypeScript
+# TypeScript build output
+# dist/
+# tsconfig.tsbuildinfo
